@@ -24,7 +24,7 @@ This work is inspired by:
   reports directory. There are two steps for using notebooks effectively:
 
   * Follow a naming convention that shows the owner and the order the analysis
-  was done in. We use the format <step>-<ghuser>-<description>.ipynb
+  was done in. We use the format &lt;step&gt;-&lt;ghuser&gt;-&lt;description&gt;.ipynb
   (e.g., 0.3-bull-visualize-distributions.ipynb).
 
   * Refactor the good parts. Don't write code to do the same task in multiple
